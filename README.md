@@ -31,6 +31,8 @@ To design and implement a framework that evaluates disaster response systems usi
 
 ## 📊 Results
 
+## 📊 Output Screenshots
+
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 
