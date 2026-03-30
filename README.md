@@ -28,6 +28,10 @@ To design and implement a framework that evaluates disaster response systems usi
 5. Visualize results using graphs
 
 ---
+## 🔄 System Workflow
+![Flowchart](flowchart_final.png)
+
+---
 
 ## 📊 Results
 
