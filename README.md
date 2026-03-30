@@ -32,7 +32,15 @@ To design and implement a framework that evaluates disaster response systems usi
 ![Flowchart](flowchart_final.png)
 
 ---
+## ▶️ How to Run
 
+1. Open the notebook in Google Colab or Jupyter
+2. Run all cells
+3. Outputs generated:
+   - Confusion Matrix
+   - Metrics Graph
+
+---
 ## 📊 Results
 
 ## 📊 Output Screenshots
